@@ -2,7 +2,7 @@ class HelloWorld
 {
      public static void main(String[] args)
      {
-       System.out.println("----***** Tekyar und Roya ******-----");
+       System.out.println("----***** Sasan und Zubin ******-----");
      }
 }
 
